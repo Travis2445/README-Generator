@@ -24,3 +24,4 @@ Using terminal, once in the root directory type 'node index.js' into the termina
 https://github.com/Travis2445/README-Generator
 
 ## Video Walkthrough
+[[Watch the video](https://youtu.be/peH0nCDxOx4)]
