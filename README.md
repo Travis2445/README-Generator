@@ -5,7 +5,7 @@
 2. [Installation](#installation)
 3. [Usage](#usage)  
 4. [License](#license)
-5. [GitHub](#gitHub)
+5. [GitHub](#github)
 6. [E-mail](#e-mail)
 
 ## Description
