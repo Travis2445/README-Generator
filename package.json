@@ -1,0 +1,30 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "A simple command-line application that accepts user inout to generate a professional README file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Travis2445/README-Generator.git"
+  },
+  "keywords": [
+    "readme",
+    "promise",
+    "jest",
+    "javascript",
+    "inquirer",
+    "generator"
+  ],
+  "author": "Travis Shelton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Travis2445/README-Generator/issues"
+  },
+  "homepage": "https://github.com/Travis2445/README-Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
